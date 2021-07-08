@@ -7,6 +7,6 @@
 
 - Status:Done
 - Function:
- - 实现ping功能;
- - 获取本机IP
- - 获取同一网段下的存活IP(允许ping的主机)
+  - 实现ping功能;
+  - 获取本机IP
+  - 获取同一网段下的存活IP(允许ping的主机)
